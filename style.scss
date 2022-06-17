@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar-brand img {
+    margin-left: 40px;
+    width: 150px;
+}
+
+.nav-link {
+    font-family: 'Poppins';
+    font-style: italic;
+    margin-left: 50px;
+}
+
+.imagedeck {
+    width: 500px;
+    height: 500px;
+}
+
+.row {
+    margin: 20px;
+}
+
+.gallery-title {
+    font-family: 'Poppins';
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+    font-weight: lighter;
+    margin: 20px;
+}
+
+.gallery-paragraph {
+    font-family: 'Poppins';
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    margin: 20px;
+}
+
+.hero-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.hero-img img {
+    border-radius: 20px;
+}
+
+.d-grid .btn {
+    background-color: rgb(71, 67, 67);
+    border: none;
+}
+
+.contact-title h3 {
+    font-family: 'Poppins';
+    font-weight: lighter;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.metitle {
+    font-family: 'Poppins';
+    font-weight: lighter;
+    text-align: center;
+}
+
+
+.aboutmetext {
+    width: 100%;
+    font-family: 'Poppins';
+    font-weight: lighter;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 10px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+.imageme {
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.homepageimg {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 20px;
+}
+
+.clearfix {
+    margin: 100px;
+    font-family: 'Poppins';
+}
+
+.gallerylinks {
+    margin: 100px 0 100px 0;
+    font-family: 'Poppins';
+}
+
+.gallerylinks a {
+    text-decoration: none;
+    color: rgb(49, 47, 47);
+}
+
+.carousel {
+    margin: 100px;
+}
+
+
+
+
